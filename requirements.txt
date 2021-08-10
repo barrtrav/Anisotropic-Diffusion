@@ -1,0 +1,10 @@
+json
+numpy
+Pillow
+pathlib
+pylab-sdk
+python-time
+python-sympy
+python-scipy
+python-skimage
+python-matplotlib
