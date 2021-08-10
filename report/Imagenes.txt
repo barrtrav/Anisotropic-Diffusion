@@ -1,0 +1,357 @@
+\begin{figure*}[h]
+	\begin{subfigure}[a]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1}
+		\caption{Original}
+	\end{subfigure}
+	\begin{subfigure}[b]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1_noise}
+		\caption{Filtered}
+	\end{subfigure}
+	\begin{subfigure}[c]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1_edge}
+		\caption{Edges}
+	\end{subfigure}
+	
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1_4}
+		\caption{KMMC2 t=4}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1_4_edge}
+		\caption{KMMC2 edge t=4}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1_4_norm}
+		\caption{KMMC t=4}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1_4_norm_edge}
+		\caption{KMMC edge t=4}
+	\end{subfigure}
+
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1_10}
+		\caption{KMMC2 t=10}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1_10_edge}
+		\caption{KMMC2 edge t=10}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1_10_norm}
+		\caption{KMMC t=10}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im1/im_1_10_norm_edge}
+		\caption{KMMC edge t=10}
+	\end{subfigure}
+
+	\caption{Im\_1 con parametros wep=0.4590, sep=0.0652, n=14}
+\end{figure*}
+
+\begin{figure*}[h]
+	\begin{subfigure}[a]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2}
+		\caption{Original}
+	\end{subfigure}
+	\begin{subfigure}[b]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2_noise}
+		\caption{Filtered}
+	\end{subfigure}
+	\begin{subfigure}[c]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2_edge}
+		\caption{Edges}
+	\end{subfigure}
+	
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2_4}
+		\caption{KMMC2 t=4}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2_4_edge}
+		\caption{KMMC2 edge t=4}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2_4_norm}
+		\caption{KMMC t=4}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2_4_norm_edge}
+		\caption{KMMC edge t=4}
+	\end{subfigure}
+
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2_10}
+		\caption{KMMC2 t=10}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2_10_edge}
+		\caption{KMMC2 edge t=10}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2_10_norm}
+		\caption{KMMC t=10}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im2/im_2_10_norm_edge}
+		\caption{KMMC edge t=10}
+	\end{subfigure}
+
+	\caption{Im\_2 con parametros wep=0.1765, sep=0.0046, n=19}
+\end{figure*}
+
+\begin{figure*}[h]
+	\begin{subfigure}[a]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3}
+		\caption{Original}
+	\end{subfigure}
+	\begin{subfigure}[b]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3_noise}
+		\caption{Filtered}
+	\end{subfigure}
+	\begin{subfigure}[c]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3_edge}
+		\caption{Edges}
+	\end{subfigure}
+	
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3_4}
+		\caption{KMMC2 t=4}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3_4_edge}
+		\caption{KMMC2 edge t=4}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3_4_norm}
+		\caption{KMMC t=4}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3_4_norm_edge}
+		\caption{KMMC edge t=4}
+	\end{subfigure}
+
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3_10}
+		\caption{KMMC2 t=10}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3_10_edge}
+		\caption{KMMC2 edge t=10}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3_10_norm}
+		\caption{KMMC t=10}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im3/im_3_10_norm_edge}
+		\caption{KMMC edge t=10}
+	\end{subfigure}
+
+	\caption{Im\_3 con parametros wep=0.6614, sep=0.0179, n=23}
+\end{figure*}
+
+\begin{figure*}[h]
+	\begin{subfigure}[a]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4}
+		\caption{Original}
+	\end{subfigure}
+	\begin{subfigure}[b]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4_noise}
+		\caption{Filtered}
+	\end{subfigure}
+	\begin{subfigure}[c]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4_edge}
+		\caption{Edges}
+	\end{subfigure}
+	
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4_4}
+		\caption{KMMC2 t=4}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4_4_edge}
+		\caption{KMMC2 edge t=4}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4_4_norm}
+		\caption{KMMC t=4}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4_4_norm_edge}
+		\caption{KMMC edge t=4}
+	\end{subfigure}
+
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4_10}
+		\caption{KMMC2 t=10}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4_10_edge}
+		\caption{KMMC2 edge t=10}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4_10_norm}
+		\caption{KMMC t=10}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im4/im_4_10_norm_edge}
+		\caption{KMMC edge t=10}
+	\end{subfigure}
+
+	\caption{Im\_4 con parametros wep=0.6614, sep=0.0179, n=23}
+\end{figure*}
+
+\begin{figure*}[h]
+	\begin{subfigure}[a]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5}
+		\caption{Original}
+	\end{subfigure}
+	\begin{subfigure}[b]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5_noise}
+		\caption{Filtered}
+	\end{subfigure}
+	\begin{subfigure}[c]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5_edge}
+		\caption{Edges}
+	\end{subfigure}
+	
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5_4}
+		\caption{KMMC2 t=4}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5_4_edge}
+		\caption{KMMC2 edge t=4}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5_4_norm}
+		\caption{KMMC t=4}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5_4_norm_edge}
+		\caption{KMMC edge t=4}
+	\end{subfigure}
+
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5_10}
+		\caption{KMMC2 t=10}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5_10_edge}
+		\caption{KMMC2 edge t=10}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5_10_norm}
+		\caption{KMMC t=10}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im5/im_5_10_norm_edge}
+		\caption{KMMC edge t=10}
+	\end{subfigure}
+
+	\caption{Im\_5 con parametros wep=0.2593, sep=0.0889, n=9}
+\end{figure*}
+
+\begin{figure*}[h]
+	\begin{subfigure}[a]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6}
+		\caption{Original}
+	\end{subfigure}
+	\begin{subfigure}[b]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6_noise}
+		\caption{Filtered}
+	\end{subfigure}
+	\begin{subfigure}[c]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6_edge}
+		\caption{Edges}
+	\end{subfigure}
+	
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6_4}
+		\caption{KMMC2 t=4}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6_4_edge}
+		\caption{KMMC2 edge t=4}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6_4_norm}
+		\caption{KMMC t=4}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6_4_norm_edge}
+		\caption{KMMC edge t=4}
+	\end{subfigure}
+
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6_10}
+		\caption{KMMC2 t=10}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6_10_edge}
+		\caption{KMMC2 edge t=10}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6_10_norm}
+		\caption{KMMC t=10}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im6/im_6_10_norm_edge}
+		\caption{KMMC edge t=10}
+	\end{subfigure}
+
+	\caption{Im\_6 con parametros wep=0.6231, sep=0.0288, n=14}
+\end{figure*}
+
+\begin{figure}
+	\begin{subfigure}[a]{5cm}
+		\includegraphics[width=5cm]{image/im7/im_7}
+		\caption{Original}
+	\end{subfigure}
+	\begin{subfigure}[b]{5cm}
+		\includegraphics[width=5cm]{image/im7/im_7_noise}
+		\caption{Filtered}
+	\end{subfigure}
+
+	\begin{subfigure}[c]{5cm}
+		\includegraphics[width=5cm]{image/im7/im_7_edge}
+		\caption{Edges}
+	\end{subfigure}
+	
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im7/im_7_4}
+		\caption{KMMC2 t=4}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im7/im_7_4_edge}
+		\caption{KMMC2 edge t=4}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im7/im_7_4_norm}
+		\caption{KMMC t=4}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im7/im_7_4_norm_edge}
+		\caption{KMMC edge t=4}
+	\end{subfigure}
+
+	\begin{subfigure}[d]{4cm}
+		\includegraphics[width=4cm]{image/im7/im_7_10}
+		\caption{KMMC2 t=10}
+	\end{subfigure}
+	\begin{subfigure}[e]{4cm}
+		\includegraphics[width=4cm]{image/im7/im_7_10_edge}
+		\caption{KMMC2 edge t=10}
+	\end{subfigure}
+	\begin{subfigure}[f]{4cm}
+		\includegraphics[width=4cm]{image/im7/im_7_10_norm}
+		\caption{KMMC t=10}
+	\end{subfigure}
+	\begin{subfigure}[g]{4cm}
+		\includegraphics[width=4cm]{image/im7/im_7_10_norm_edge}
+		\caption{KMMC edge t=10}
+	\end{subfigure}
+
+	\caption{Im\_7 con par\'ametros wep=0.5593, sep=0.0652, n=14}
+\end{figure}

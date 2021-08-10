@@ -1,0 +1,15 @@
+Referencias
+
+[01] Achanta, Radhakrishna, Appu Shaji, Kevin Smith, Aurelien Lucchi, Pascal Fua, Sabine Susstrunk. 2012. SLIC superpixels compared to state-of-theart superpixel methods. Pattern Analysis and Machine Intelligence, IEEE Transactions on. 34(11):2274–2282.
+[02] Borroto Fern\'andez M, Gonz\'alez Hidalgo M, Le\'on-Mec\'ias A. 2014. New estimation method of the contrast parameter for the Perona-Malik difusion equation. Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization. 
+[03] Darshita Jain. 2019. Superpixels and SLIC. http://darshita1405.medium.com/superpixel-and-slic-6b2d8a6e4f08.
+[04] Ferrari, Ricardo J. 2013. Off-line determination of the optimal number of iterations of the robust anisotropic diusion filter applied to denoising of brain MR images.
+[05] Gali\'c I, Weickert J, Welk M, Bruhn A, Belyaev A, Seodel HP. 2008. Image Compression with Anisotropic Diffusion. J Math Imaging.  31: 255-269.
+[06] Gupta, Rishu, Elamvazuthil I, Faye I, Vasant R, George J. 2014. Comparative Analysis of Anisotropic Diusion and Non Local Means on Ultrasound Images.
+[07] Hidalgo Gato E. 2015. Estimaci\'on del p\'ametro de contraste para el suavizado por Difusi\'on Anisotropica aplicado por regiones.
+[08] Krishnan, Akshara P, Paul J S. 2014. Image enhancement in intensity projected multichannel MRI using spatially adaptive directional anisotropic difusion.
+[09] Kroon D. 2009. Numerical Optimization of Kernel Based Image Derivatives. Short Paper University Twente.
+[10] Perona P, Malik J. 1990. Scale-space and edge detection using anisotropic diffusion. IEEE Trans Pattern Anal Mach Intell. 12(7) p.629–639.
+[11] M\'endez Castillo R M. 2019.Image smoothing by regions: a parallel version for mammography edges enhancement.
+[12] Mark S, Alberto S Aguada. 2020. [PDF] Feature Extraction and Image Processing for Cpmputer Vision. (4): 399-432
+[13] Tsiotsios C, Petrou M. 2013. On the choice of the parameters for anisotropic diffusion in image processing. Pattern Recogn. 46(5):1369–1381.

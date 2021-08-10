@@ -1,0 +1,163 @@
+\begin{table*}[htb]
+\centering
+\caption{ Resultados con parametros wep = 0.4590, sep = 0.0652, t=10}  
+\begin{tabular}{||c||c|c|c||c|c|c||}
+\hline\hline
+Algoritmo & \multicolumn {3}{c ||}{KMMC2} & \multicolumn {3}{c ||}{KMMC} \\
+\hline
+Image & RMSE & PSNR & SNR & RMSE & PSNR & SNR \\
+\hline
+im\_1(16) &   &  &   &  &  &  \\
+\hline
+im\_2(16) &   &  &   &  &  &  \\
+\hline
+im\_3(9) &   &  &  &  &  &  \\
+\hline
+im\_4(8) &  &  &  &  &  &  \\
+\hline
+im\_5(18) &  &  &  &  &  &  \\
+\hline
+im\_6(16) &  &  &  &  &  &  \\
+\hline
+im\_7(14) &  &  &  &  &  &  \\
+\hline\hline
+\end{tabular}
+\end{table*}
+
+
+\begin{table*}[htb]
+\centering
+\caption{ Resultados con parametros wep = 0.1512, sep = 0.0351, t=4}  
+\begin{tabular}{||c||c|c|c||c|c|c||}
+\hline\hline
+Algoritmo & \multicolumn {3}{c ||}{KMMC2} & \multicolumn {3}{c ||}{KMMC} \\
+\hline
+Image & RMSE & PSNR & SNR & RMSE & PSNR & SNR \\
+\hline
+im\_1(18) &  7.06110 & 23.61617 &  0.00065 & 13.28842 & 31.02648 & 0.00103 \\
+\hline
+im\_2(8) &  8.14287 & 20.22713 &  0.00157 & 5.92876 & 28.12158 & 0.00302 \\
+\hline
+im\_3(10) &  6.37224 & 24.22825 & 0.00095 & 5.07506 & 35.33467 & 0.00148 \\
+\hline
+im\_4(12) & 11.05530 & 20.34762 & 0.00105 & 17.17136 & 23.56271 & 0.00187 \\
+\hline
+im\_5(17) & 9.48456 & 19.85388 & 0.00255 & 7.12287 & 27.47691 & 0.00567 \\
+\hline
+im\_6(16) & 11.37647 & 19.98768 & 0.00132 & 8.63443 & 23.27591 & 0.00253 \\
+\hline
+im\_7(7) & 9.75062 & 19.39042 & 0.00425 & 8.97876 & 24.98165 & 0.00798 \\
+\hline\hline
+\end{tabular}
+\end{table*}
+
+\begin{table*}[htb]
+\centering
+\caption{ Resultados con parametros wep = 0.4590, sep = 0.0652, t=10}  
+\begin{tabular}{||c||c|c|c||c|c|c||}
+\hline\hline
+Algoritmo & \multicolumn {3}{c ||}{KMMC2} & \multicolumn {3}{c ||}{KMMC} \\
+\hline
+Image & RMSE & PSNR & SNR & RMSE & PSNR & SNR \\
+\hline
+im\_1(16) & 7.19049 & 23.42316 & 0.00075 & 102.72220 & 21.40958 & 0.00706 \\
+\hline
+im\_2(16) & 8.12343 & 20.19310 & 0.00165 & 54.49810 & 12.41666 & 0.01106  \\
+\hline
+im\_3(9) & 6.56147 & 23.88787 & 0.00107 & 60.08620 & 22.26276 & 0.00664 \\
+\hline
+im\_4(8) & 11.24810 & 20.29872 & 0.00118 & 139.17860 & 17.80957 & 0.01245 \\
+\hline
+im\_5(18) & 9.40225 & 19.92589 & 0.00264 & 92.35204 & 12.80678 & 0.02629 \\
+\hline
+im\_6(16) & 11.36068 & 20.04932 & 0.00143 & 34.15934 & 15.38585 & 0.00771 \\
+\hline
+im\_7(18) & 9.78623 & 19.37734 & 0.00432 & 55.97011 & 12.34946 & 0.02204 \\
+\hline\hline
+\end{tabular}
+\end{table*}
+
+\begin{table*}[!]
+%\centering
+\caption{ Resultados con parametros wep = 0.6614, sep = 0.0179, t=8}  
+\begin{tabular}{||c||c|c|c||c|c|c||}
+\hline\hline
+Algoritmo & \multicolumn {3}{c ||}{KMMC2} & \multicolumn {3}{c ||}{KMMC} \\
+\hline
+Image & RMSE & PSNR & SNR & RMSE & PSNR & SNR \\
+\hline
+im\_1(14) & 7.19902 & 23.44800 & 0.00074 & 42.04220 & 24.22972 & 0.00293 \\
+\hline
+im\_2(14) & 8.13200 & 20.16766 & 0.00161 & 36.10134 & 14.63316 & 0.00799 \\
+\hline
+im\_3(14) & 6.50122 & 23.95853 & 0.00103 & 32.84366 & 26.15773 & 0.00372 \\
+\hline
+im\_4(14) & 11.13977 & 20.32703 & 0.00112 & 59.80577 & 20.27990 & 0.00570 \\
+\hline
+im\_5(14) & 9.39104 & 19.90574 & 0.00263 & 72.03239 & 13.86125 & 0.02104 \\
+\hline
+im\_6(14) & 11.32550 & 20.05285 & 0.00144 & 24.75971 & 16.91503 & 0.00594 \\
+\hline
+im\_7(14) & 9.77511 & 19.43448 & 0.00429 & 37.35249 & 14.26154 & 0.01649 \\
+\hline\hline
+\end{tabular}
+\end{table*}
+
+\begin{table*}[htb]
+\centering
+\caption{ KMMC2 con parametros wep = 0.5593, sep = 0.0652}  
+\begin{tabular}{||c||c|c|c||c|c|c||}
+\hline\hline
+Imagenes & \multicolumn {3}{c ||}{im\_1(14)} & \multicolumn {3}{c ||}{im\_7(14)} \\
+\hline
+Iteraciones (t) & RMSE & PSNR & SNR & RMSE & PSNR & SNR \\
+\hline
+01 & 7.07037 & 23.60478 & 0.00062 & 9.79446 & 19.37714 & 0.00420 \\
+\hline
+02 & 7.05974 & 23.61785 & 0.00063 & 9.78304 & 19.39270 & 0.00421 \\
+\hline
+03 & 7.05350 & 23.62553 & 0.00065 & 9.77696 & 19.40306 & 0.00423 \\
+\hline
+04 & 7.05716 & 23.62101 & 0.00067 & 9.77302 & 19.41102 & 0.00424 \\
+\hline
+05 & 7.07714 & 23.59647 & 0.00069 & 9.76719 & 19.42007 & 0.00426 \\
+\hline
+06 & 7.11330 & 23.55219 & 0.00072 & 9.76526 & 19.42539 & 0.00428 \\
+\hline
+07 & 7.15461 & 23.50190 & 0.00074 & 9.76127 & 19.42610 & 0.00430 \\
+\hline
+08 & 7.19203 & 23.45658 & 0.00075 & 9.75939 & 19.42481 & 0.00432 \\
+\hline
+09 & 7.20862 & 23.43658 & 0.00076 & 9.75879 & 19.42239 & 0.00434 \\
+\hline
+10 & 7.22280 & 23.41951 & 0.00076 & 9.75939 & 19.41898 & 0.00436 \\
+\hline\hline
+\end{tabular}
+\end{table*}
+
+
+\begin{table}[htb]
+%\centering
+\caption{Tiempo de ejecuci\'on}  
+\begin{tabular}{||c|c||c|c||c|c||}
+\hline\hline
+\multicolumn {2}{|| c ||}{Algoritmo} & \multicolumn {2}{c ||}{KMMC2} & \multicolumn {2}{c ||}{KMMC} \\
+\hline
+Imagen & Dimensi\'on & max & min & max & min \\
+\hline
+im\_1 & 720 $\times$ 504 (105.1 KB)& & & & \\
+\hline
+im\_2 & 360 $\times$ 360 (29.9 KB) & & & & \\
+\hline
+im\_3 & 480 $\times$ 360 (15.3 KB) & & & & \\
+\hline
+im\_4 & 320 $\times$ 320 (14.9 KB) & & & & \\
+\hline
+im\_5 & 242 $\times$ 209 (7.4 KB) & & & & \\
+\hline
+im\_6 & 257 $\times$ 193 (6.8 KB) & & & & \\
+\hline
+im\_7 & 203 $\times$ 104 (4.6 KB) & & & & \\
+\hline\hline
+\end{tabular}
+\end{table}
