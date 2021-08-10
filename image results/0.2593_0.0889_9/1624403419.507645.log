@@ -1,0 +1,1722 @@
+Origen: output/noisy/im_1.jpg
+output/noisy/im_1.pickledge output/noisy/im_1_edge.jpg
+- Escrito: output/noisy/im_1 - noise.pickled
+Origen: output/noisy/im_10.jpg
+output/noisy/im_10.pickledge output/noisy/im_10_edge.jpg
+- Escrito: output/noisy/im_10 - noise.pickled
+Origen: output/noisy/im_11.jpg
+output/noisy/im_11.pickledge output/noisy/im_11_edge.jpg
+- Escrito: output/noisy/im_11 - noise.pickled
+Origen: output/noisy/im_2.jpg
+output/noisy/im_2.pickledge output/noisy/im_2_edge.jpg
+- Escrito: output/noisy/im_2 - noise.pickled
+Origen: output/noisy/im_3.jpg
+output/noisy/im_3.pickledge output/noisy/im_3_edge.jpg
+- Escrito: output/noisy/im_3 - noise.pickled
+Origen: output/noisy/im_4.jpg
+output/noisy/im_4.pickledge output/noisy/im_4_edge.jpg
+- Escrito: output/noisy/im_4 - noise.pickled
+Origen: output/noisy/im_5.jpg
+output/noisy/im_5.pickledge output/noisy/im_5_edge.jpg
+- Escrito: output/noisy/im_5 - noise.pickled
+Origen: output/noisy/im_6.jpg
+output/noisy/im_6.pickledge output/noisy/im_6_edge.jpg
+- Escrito: output/noisy/im_6 - noise.pickled
+Origen: output/noisy/im_7.jpg
+output/noisy/im_7.pickledge output/noisy/im_7_edge.jpg
+- Escrito: output/noisy/im_7 - noise.pickled
+Origen: output/noisy/im_8.jpg
+output/noisy/im_8.pickledge output/noisy/im_8_edge.jpg
+- Escrito: output/noisy/im_8 - noise.pickled
+Origen: output/noisy/im_9.jpg
+output/noisy/im_9.pickledge output/noisy/im_9_edge.jpg
+- Escrito: output/noisy/im_9 - noise.pickled
+Finalizando aplicacion de ruido. ---- True
+<class 'str'>
+  output/noisy/im_1 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_1 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.13387599999999988
+
+--- Tiempo en los coeficientes  0.14718300000000006
+
+--- Tiempo en creando nueva imagen  0.023282000000000025
+
+
+
+-- Tiempo en Nixon_Slic  0.3223180000000001
+
+-- Tiempo en Nixon_Normal  17.15608
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-1.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.18487200000000215
+
+--- Tiempo en los coeficientes  0.1773789999999984
+
+--- Tiempo en creando nueva imagen  0.03233099999999922
+
+
+
+-- Tiempo en Nixon_Slic  0.41715699999999956
+
+-- Tiempo en Nixon_Normal  17.397856000000004
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-2.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.14963299999999435
+
+--- Tiempo en los coeficientes  0.16149999999999665
+
+--- Tiempo en creando nueva imagen  0.03256300000000323
+
+
+
+-- Tiempo en Nixon_Slic  0.3810270000000031
+
+-- Tiempo en Nixon_Normal  17.45317
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-3.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.1775299999999902
+
+--- Tiempo en los coeficientes  0.1639030000000048
+
+--- Tiempo en creando nueva imagen  0.0279650000000089
+
+
+
+-- Tiempo en Nixon_Slic  0.4073970000000031
+
+-- Tiempo en Nixon_Normal  17.556608999999995
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-4.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.17223099999999647
+
+--- Tiempo en los coeficientes  0.17625800000000424
+
+--- Tiempo en creando nueva imagen  0.030514999999994075
+
+
+
+-- Tiempo en Nixon_Slic  0.41620400000000757
+
+-- Tiempo en Nixon_Normal  17.55199900000001
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-5.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.16587499999999977
+
+--- Tiempo en los coeficientes  0.16064000000000078
+
+--- Tiempo en creando nueva imagen  0.02849000000000501
+
+
+
+-- Tiempo en Nixon_Slic  0.39255799999999397
+
+-- Tiempo en Nixon_Normal  17.372755000000012
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-6.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.16269699999999432
+
+--- Tiempo en los coeficientes  0.15305299999999988
+
+--- Tiempo en creando nueva imagen  0.028238999999999237
+
+
+
+-- Tiempo en Nixon_Slic  0.37292999999999665
+
+-- Tiempo en Nixon_Normal  17.456896000000015
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-7.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.15080199999999877
+
+--- Tiempo en los coeficientes  0.17736399999998298
+
+--- Tiempo en creando nueva imagen  0.030088000000006332
+
+
+
+-- Tiempo en Nixon_Slic  0.38592800000000693
+
+-- Tiempo en Nixon_Normal  17.231982000000016
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-8.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.16266999999999143
+
+--- Tiempo en los coeficientes  0.1432320000000118
+
+--- Tiempo en creando nueva imagen  0.031373000000002094
+
+
+
+-- Tiempo en Nixon_Slic  0.37326799999999594
+
+-- Tiempo en Nixon_Normal  17.743466000000012
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-9.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.17060299999999984
+
+--- Tiempo en los coeficientes  0.1424509999999941
+
+--- Tiempo en creando nueva imagen  0.03305799999998271
+
+
+
+-- Tiempo en Nixon_Slic  0.38414900000000785
+
+-- Tiempo en Nixon_Normal  17.486649999999997
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-10.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_1/im_1-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_1/im_1-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 199.673398 para 10 iteraciones
+
+Tiempo total de output/noisy/im_1 - noise.pickled: 199.776183
+
+<class 'str'>
+  output/noisy/im_10 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_10 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.04919799999998986
+
+--- Tiempo en los coeficientes  0.03834799999998495
+
+--- Tiempo en creando nueva imagen  0.0018530000000112068
+
+
+
+-- Tiempo en Nixon_Slic  0.10979000000000383
+
+-- Tiempo en Nixon_Normal  1.6932040000000086
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-1.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04860400000001164
+
+--- Tiempo en los coeficientes  0.03463800000000106
+
+--- Tiempo en creando nueva imagen  0.0018379999999922347
+
+
+
+-- Tiempo en Nixon_Slic  0.10497100000000614
+
+-- Tiempo en Nixon_Normal  1.7238339999999823
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-2.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04876999999999043
+
+--- Tiempo en los coeficientes  0.036990000000002965
+
+--- Tiempo en creando nueva imagen  0.0023730000000057316
+
+
+
+-- Tiempo en Nixon_Slic  0.11258200000000329
+
+-- Tiempo en Nixon_Normal  1.7412669999999935
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-3.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04863199999999779
+
+--- Tiempo en los coeficientes  0.035805999999979576
+
+--- Tiempo en creando nueva imagen  0.002416000000010854
+
+
+
+-- Tiempo en Nixon_Slic  0.10954699999999207
+
+-- Tiempo en Nixon_Normal  1.7151999999999816
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-4.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04537400000000957
+
+--- Tiempo en los coeficientes  0.0377459999999985
+
+--- Tiempo en creando nueva imagen  0.0018189999999833617
+
+
+
+-- Tiempo en Nixon_Slic  0.10812699999999609
+
+-- Tiempo en Nixon_Normal  1.7903909999999996
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-5.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.047189000000003034
+
+--- Tiempo en los coeficientes  0.04054800000000114
+
+--- Tiempo en creando nueva imagen  0.002300999999988562
+
+
+
+-- Tiempo en Nixon_Slic  0.11191000000002305
+
+-- Tiempo en Nixon_Normal  1.7801509999999894
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-6.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.050803999999999405
+
+--- Tiempo en los coeficientes  0.04162399999998456
+
+--- Tiempo en creando nueva imagen  0.0026870000000087657
+
+
+
+-- Tiempo en Nixon_Slic  0.12020200000000614
+
+-- Tiempo en Nixon_Normal  1.8081289999999797
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-7.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.049396999999999025
+
+--- Tiempo en los coeficientes  0.03260000000000218
+
+--- Tiempo en creando nueva imagen  0.0022810000000106356
+
+
+
+-- Tiempo en Nixon_Slic  0.10690599999998085
+
+-- Tiempo en Nixon_Normal  1.784322000000003
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-8.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04500799999999572
+
+--- Tiempo en los coeficientes  0.03402299999999059
+
+--- Tiempo en creando nueva imagen  0.0025339999999971496
+
+
+
+-- Tiempo en Nixon_Slic  0.10402899999999704
+
+-- Tiempo en Nixon_Normal  1.7618209999999976
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-9.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04358500000000731
+
+--- Tiempo en los coeficientes  0.033025000000009186
+
+--- Tiempo en creando nueva imagen  0.0025369999999895754
+
+
+
+-- Tiempo en Nixon_Slic  0.09926600000000008
+
+-- Tiempo en Nixon_Normal  1.8065469999999948
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-10.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_10/im_10-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_10/im_10-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 20.955359000000016 para 10 iteraciones
+
+Tiempo total de output/noisy/im_10 - noise.pickled: 20.970685000000003
+
+<class 'str'>
+  output/noisy/im_11 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_11 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.04171099999999228
+
+--- Tiempo en los coeficientes  0.03515600000000063
+
+--- Tiempo en creando nueva imagen  0.0026270000000181426
+
+
+
+-- Tiempo en Nixon_Slic  0.09744700000001671
+
+-- Tiempo en Nixon_Normal  1.728430000000003
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-1.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.047252000000014505
+
+--- Tiempo en los coeficientes  0.03279799999998545
+
+--- Tiempo en creando nueva imagen  0.0022950000000037107
+
+
+
+-- Tiempo en Nixon_Slic  0.10069999999998913
+
+-- Tiempo en Nixon_Normal  1.704624000000024
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-2.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.045952999999997246
+
+--- Tiempo en los coeficientes  0.03585100000000807
+
+--- Tiempo en creando nueva imagen  0.0017679999999984375
+
+
+
+-- Tiempo en Nixon_Slic  0.10531599999998775
+
+-- Tiempo en Nixon_Normal  1.7111579999999833
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-3.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04511700000000474
+
+--- Tiempo en los coeficientes  0.030244999999979427
+
+--- Tiempo en creando nueva imagen  0.0022429999999928896
+
+
+
+-- Tiempo en Nixon_Slic  0.09760199999999486
+
+-- Tiempo en Nixon_Normal  1.6934369999999888
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-4.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.0453679999999963
+
+--- Tiempo en los coeficientes  0.035790999999989026
+
+--- Tiempo en creando nueva imagen  0.002442999999999529
+
+
+
+-- Tiempo en Nixon_Slic  0.10607199999998329
+
+-- Tiempo en Nixon_Normal  1.7073619999999892
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-5.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.045343000000002576
+
+--- Tiempo en los coeficientes  0.032856000000009544
+
+--- Tiempo en creando nueva imagen  0.002348000000012007
+
+
+
+-- Tiempo en Nixon_Slic  0.10091799999997875
+
+-- Tiempo en Nixon_Normal  1.7139099999999985
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-6.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04574600000000828
+
+--- Tiempo en los coeficientes  0.0346890000000144
+
+--- Tiempo en creando nueva imagen  0.002447999999986905
+
+
+
+-- Tiempo en Nixon_Slic  0.10467300000001956
+
+-- Tiempo en Nixon_Normal  1.7090239999999994
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-7.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04568100000000186
+
+--- Tiempo en los coeficientes  0.03158700000000181
+
+--- Tiempo en creando nueva imagen  0.0023910000000171294
+
+
+
+-- Tiempo en Nixon_Slic  0.09994199999999864
+
+-- Tiempo en Nixon_Normal  1.732609999999994
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-8.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.045454000000006545
+
+--- Tiempo en los coeficientes  0.03535800000000222
+
+--- Tiempo en creando nueva imagen  0.002413000000018428
+
+
+
+-- Tiempo en Nixon_Slic  0.10568100000000413
+
+-- Tiempo en Nixon_Normal  1.7785829999999976
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-9.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.045392999999990025
+
+--- Tiempo en los coeficientes  0.03289800000001719
+
+--- Tiempo en creando nueva imagen  0.0024800000000197997
+
+
+
+-- Tiempo en Nixon_Slic  0.10069400000000428
+
+-- Tiempo en Nixon_Normal  1.6873970000000043
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-10.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_11/im_11-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_11/im_11-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 20.435157000000004 para 10 iteraciones
+
+Tiempo total de output/noisy/im_11 - noise.pickled: 20.491527999999988
+
+<class 'str'>
+  output/noisy/im_2 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_2 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.07282599999999206
+
+--- Tiempo en los coeficientes  0.06917200000000889
+
+--- Tiempo en creando nueva imagen  0.009381999999988011
+
+
+
+-- Tiempo en Nixon_Slic  0.17245199999999272
+
+-- Tiempo en Nixon_Normal  6.3078310000000215
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-1.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.08005800000000818
+
+--- Tiempo en los coeficientes  0.0726460000000202
+
+--- Tiempo en creando nueva imagen  0.009891000000010308
+
+
+
+-- Tiempo en Nixon_Slic  0.18292399999998565
+
+-- Tiempo en Nixon_Normal  6.4448639999999955
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-2.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.08437199999997347
+
+--- Tiempo en los coeficientes  0.07112799999998742
+
+--- Tiempo en creando nueva imagen  0.01124499999997397
+
+
+
+-- Tiempo en Nixon_Slic  0.18745899999998983
+
+-- Tiempo en Nixon_Normal  6.422733999999991
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-3.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.08053499999999758
+
+--- Tiempo en los coeficientes  0.08399199999996654
+
+--- Tiempo en creando nueva imagen  0.01338799999996354
+
+
+
+-- Tiempo en Nixon_Slic  0.1978040000000192
+
+-- Tiempo en Nixon_Normal  6.25209000000001
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-4.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.08105399999999463
+
+--- Tiempo en los coeficientes  0.07005100000003495
+
+--- Tiempo en creando nueva imagen  0.009532000000035623
+
+
+
+-- Tiempo en Nixon_Slic  0.19005599999997003
+
+-- Tiempo en Nixon_Normal  6.114595999999949
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-5.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.07819200000000137
+
+--- Tiempo en los coeficientes  0.0691889999999944
+
+--- Tiempo en creando nueva imagen  0.00950799999998253
+
+
+
+-- Tiempo en Nixon_Slic  0.1816830000000209
+
+-- Tiempo en Nixon_Normal  6.148626000000036
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-6.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.0826860000000238
+
+--- Tiempo en los coeficientes  0.06962200000003804
+
+--- Tiempo en creando nueva imagen  0.009782999999970343
+
+
+
+-- Tiempo en Nixon_Slic  0.18716700000004494
+
+-- Tiempo en Nixon_Normal  6.251101000000006
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-7.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.0807219999999802
+
+--- Tiempo en los coeficientes  0.079654000000005
+
+--- Tiempo en creando nueva imagen  0.011339999999961492
+
+
+
+-- Tiempo en Nixon_Slic  0.19606399999997848
+
+-- Tiempo en Nixon_Normal  6.238963999999953
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-8.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.08254599999997936
+
+--- Tiempo en los coeficientes  0.07050500000002557
+
+--- Tiempo en creando nueva imagen  0.009667000000035841
+
+
+
+-- Tiempo en Nixon_Slic  0.18370800000002419
+
+-- Tiempo en Nixon_Normal  6.244047000000023
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-9.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.08167100000002847
+
+--- Tiempo en los coeficientes  0.07963100000000622
+
+--- Tiempo en creando nueva imagen  0.008856999999977688
+
+
+
+-- Tiempo en Nixon_Slic  0.19446500000003653
+
+-- Tiempo en Nixon_Normal  6.262995999999987
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-10.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_2/im_2-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_2/im_2-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 72.21625300000002 para 10 iteraciones
+
+Tiempo total de output/noisy/im_2 - noise.pickled: 72.25605499999998
+
+<class 'str'>
+  output/noisy/im_3 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_3 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.08806199999997943
+
+--- Tiempo en los coeficientes  0.09194400000001224
+
+--- Tiempo en creando nueva imagen  0.014161999999998898
+
+
+
+-- Tiempo en Nixon_Slic  0.21496700000000146
+
+-- Tiempo en Nixon_Normal  8.241637999999966
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-1.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.09970900000001848
+
+--- Tiempo en los coeficientes  0.09528199999999742
+
+--- Tiempo en creando nueva imagen  0.014530999999976757
+
+
+
+-- Tiempo en Nixon_Slic  0.22973199999995586
+
+-- Tiempo en Nixon_Normal  8.153838000000007
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-2.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.09986800000001494
+
+--- Tiempo en los coeficientes  0.09465099999999893
+
+--- Tiempo en creando nueva imagen  0.016531999999983782
+
+
+
+-- Tiempo en Nixon_Slic  0.23501900000002252
+
+-- Tiempo en Nixon_Normal  8.192992000000004
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-3.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.09869400000002315
+
+--- Tiempo en los coeficientes  0.09901500000000851
+
+--- Tiempo en creando nueva imagen  0.01428899999996247
+
+
+
+-- Tiempo en Nixon_Slic  0.23515899999995327
+
+-- Tiempo en Nixon_Normal  8.055317000000002
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-4.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.10091699999998127
+
+--- Tiempo en los coeficientes  0.09814000000000078
+
+--- Tiempo en creando nueva imagen  0.016283999999984644
+
+
+
+-- Tiempo en Nixon_Slic  0.2392770000000155
+
+-- Tiempo en Nixon_Normal  8.12456400000002
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-5.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.09789200000000164
+
+--- Tiempo en los coeficientes  0.09852200000000266
+
+--- Tiempo en creando nueva imagen  0.014192999999977474
+
+
+
+-- Tiempo en Nixon_Slic  0.23386699999997518
+
+-- Tiempo en Nixon_Normal  8.173459999999977
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-6.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.09974099999999453
+
+--- Tiempo en los coeficientes  0.08871299999998428
+
+--- Tiempo en creando nueva imagen  0.013292999999976018
+
+
+
+-- Tiempo en Nixon_Slic  0.22559899999998834
+
+-- Tiempo en Nixon_Normal  8.081469999999968
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-7.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.10086699999999382
+
+--- Tiempo en los coeficientes  0.09759700000000748
+
+--- Tiempo en creando nueva imagen  0.014887999999984913
+
+
+
+-- Tiempo en Nixon_Slic  0.2365649999999846
+
+-- Tiempo en Nixon_Normal  8.099711000000013
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-8.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.09922999999997728
+
+--- Tiempo en los coeficientes  0.089129000000014
+
+--- Tiempo en creando nueva imagen  0.013864000000012311
+
+
+
+-- Tiempo en Nixon_Slic  0.22665899999998373
+
+-- Tiempo en Nixon_Normal  8.155973000000017
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-9.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.09798599999999169
+
+--- Tiempo en los coeficientes  0.09796599999998534
+
+--- Tiempo en creando nueva imagen  0.014570999999989453
+
+
+
+-- Tiempo en Nixon_Slic  0.2335029999999847
+
+-- Tiempo en Nixon_Normal  8.134284999999977
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-10.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_3/im_3-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_3/im_3-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 93.94031000000001 para 10 iteraciones
+
+Tiempo total de output/noisy/im_3 - noise.pickled: 93.99228
+
+<class 'str'>
+  output/noisy/im_4 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_4 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.06748500000003332
+
+--- Tiempo en los coeficientes  0.06414799999998877
+
+--- Tiempo en creando nueva imagen  0.007455999999990581
+
+
+
+-- Tiempo en Nixon_Slic  0.157545999999968
+
+-- Tiempo en Nixon_Normal  4.870103999999969
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-1.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.0766179999999963
+
+--- Tiempo en los coeficientes  0.05848600000001625
+
+--- Tiempo en creando nueva imagen  0.007319999999992888
+
+
+
+-- Tiempo en Nixon_Slic  0.1609350000000518
+
+-- Tiempo en Nixon_Normal  4.855004000000008
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-2.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.0734640000000013
+
+--- Tiempo en los coeficientes  0.06669899999997142
+
+--- Tiempo en creando nueva imagen  0.008747000000028038
+
+
+
+-- Tiempo en Nixon_Slic  0.16998799999998937
+
+-- Tiempo en Nixon_Normal  4.885781999999949
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-3.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.07526199999995242
+
+--- Tiempo en los coeficientes  0.06838499999997794
+
+--- Tiempo en creando nueva imagen  0.006164000000012493
+
+
+
+-- Tiempo en Nixon_Slic  0.17013500000001613
+
+-- Tiempo en Nixon_Normal  4.963959000000045
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-4.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.07075600000001714
+
+--- Tiempo en los coeficientes  0.07168699999999717
+
+--- Tiempo en creando nueva imagen  0.00838600000002998
+
+
+
+-- Tiempo en Nixon_Slic  0.17230599999999185
+
+-- Tiempo en Nixon_Normal  4.888834000000031
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-5.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.07278199999996104
+
+--- Tiempo en los coeficientes  0.06153399999999465
+
+--- Tiempo en creando nueva imagen  0.008233999999958996
+
+
+
+-- Tiempo en Nixon_Slic  0.16406200000000126
+
+-- Tiempo en Nixon_Normal  4.805058000000031
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-6.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.07163600000001225
+
+--- Tiempo en los coeficientes  0.06984799999997904
+
+--- Tiempo en creando nueva imagen  0.008086999999989075
+
+
+
+-- Tiempo en Nixon_Slic  0.17191300000001775
+
+-- Tiempo en Nixon_Normal  4.937157000000013
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-7.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.07337400000000116
+
+--- Tiempo en los coeficientes  0.0619090000000142
+
+--- Tiempo en creando nueva imagen  0.007612999999992098
+
+
+
+-- Tiempo en Nixon_Slic  0.16449200000005249
+
+-- Tiempo en Nixon_Normal  4.85473300000001
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-8.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.0716499999999769
+
+--- Tiempo en los coeficientes  0.06815199999999777
+
+--- Tiempo en creando nueva imagen  0.008848999999997886
+
+
+
+-- Tiempo en Nixon_Slic  0.17111300000004803
+
+-- Tiempo en Nixon_Normal  4.8780459999999835
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-9.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.0730649999999855
+
+--- Tiempo en los coeficientes  0.06938499999995429
+
+--- Tiempo en creando nueva imagen  0.00883499999997639
+
+
+
+-- Tiempo en Nixon_Slic  0.1726850000000013
+
+-- Tiempo en Nixon_Normal  4.842354999999998
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-10.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_4/im_4-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_4/im_4-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 56.53958699999998 para 10 iteraciones
+
+Tiempo total de output/noisy/im_4 - noise.pickled: 56.572288000000015
+
+<class 'str'>
+  output/noisy/im_5 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_5 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.049129999999991014
+
+--- Tiempo en los coeficientes  0.044558999999992466
+
+--- Tiempo en creando nueva imagen  0.0032350000000178625
+
+
+
+-- Tiempo en Nixon_Slic  0.1168260000000032
+
+-- Tiempo en Nixon_Normal  2.393211000000008
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-1.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05512400000003481
+
+--- Tiempo en los coeficientes  0.039483999999958996
+
+--- Tiempo en creando nueva imagen  0.002678000000003067
+
+
+
+-- Tiempo en Nixon_Slic  0.11715399999997089
+
+-- Tiempo en Nixon_Normal  2.37848299999996
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-2.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.053579000000013366
+
+--- Tiempo en los coeficientes  0.04113399999999956
+
+--- Tiempo en creando nueva imagen  0.0037130000000047403
+
+
+
+-- Tiempo en Nixon_Slic  0.11930699999999206
+
+-- Tiempo en Nixon_Normal  2.461311999999964
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-3.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05163899999996602
+
+--- Tiempo en los coeficientes  0.03821099999998978
+
+--- Tiempo en creando nueva imagen  0.0026680000000283144
+
+
+
+-- Tiempo en Nixon_Slic  0.1150519999999915
+
+-- Tiempo en Nixon_Normal  2.475655999999958
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-4.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05444199999999455
+
+--- Tiempo en los coeficientes  0.04033500000002732
+
+--- Tiempo en creando nueva imagen  0.003242000000000189
+
+
+
+-- Tiempo en Nixon_Slic  0.11800299999998742
+
+-- Tiempo en Nixon_Normal  2.3702050000000554
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-5.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05367599999999584
+
+--- Tiempo en los coeficientes  0.045075999999994565
+
+--- Tiempo en creando nueva imagen  0.004000000000019099
+
+
+
+-- Tiempo en Nixon_Slic  0.12358799999998382
+
+-- Tiempo en Nixon_Normal  2.3769680000000335
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-6.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05180400000000418
+
+--- Tiempo en los coeficientes  0.044406999999978325
+
+--- Tiempo en creando nueva imagen  0.002923000000009779
+
+
+
+-- Tiempo en Nixon_Slic  0.1226169999999911
+
+-- Tiempo en Nixon_Normal  2.387643999999966
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-7.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05378799999999728
+
+--- Tiempo en los coeficientes  0.04480399999999918
+
+--- Tiempo en creando nueva imagen  0.003735000000006039
+
+
+
+-- Tiempo en Nixon_Slic  0.12508099999996602
+
+-- Tiempo en Nixon_Normal  2.424829999999986
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-8.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.053110000000003765
+
+--- Tiempo en los coeficientes  0.04003299999999399
+
+--- Tiempo en creando nueva imagen  0.0034769999999753054
+
+
+
+-- Tiempo en Nixon_Slic  0.119891999999993
+
+-- Tiempo en Nixon_Normal  2.432136000000014
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-9.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05359600000002729
+
+--- Tiempo en los coeficientes  0.04270800000000463
+
+--- Tiempo en creando nueva imagen  0.0037489999999706924
+
+
+
+-- Tiempo en Nixon_Slic  0.12250899999997955
+
+-- Tiempo en Nixon_Normal  2.432817
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-10.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_5/im_5-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_5/im_5-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 28.482117999999957 para 10 iteraciones
+
+Tiempo total de output/noisy/im_5 - noise.pickled: 28.501058
+
+<class 'str'>
+  output/noisy/im_6 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_6 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.04942999999997255
+
+--- Tiempo en los coeficientes  0.036500999999987016
+
+--- Tiempo en creando nueva imagen  0.002813000000003285
+
+
+
+-- Tiempo en Nixon_Slic  0.1099800000000073
+
+-- Tiempo en Nixon_Normal  2.3490730000000326
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-1.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05576700000000301
+
+--- Tiempo en los coeficientes  0.03844499999996742
+
+--- Tiempo en creando nueva imagen  0.003728999999964344
+
+
+
+-- Tiempo en Nixon_Slic  0.11844400000001087
+
+-- Tiempo en Nixon_Normal  2.3226419999999735
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-2.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.053139999999984866
+
+--- Tiempo en los coeficientes  0.03883899999999585
+
+--- Tiempo en creando nueva imagen  0.0036959999999908177
+
+
+
+-- Tiempo en Nixon_Slic  0.11770799999999326
+
+-- Tiempo en Nixon_Normal  2.3513829999999984
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-3.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05358200000000579
+
+--- Tiempo en los coeficientes  0.04085400000002437
+
+--- Tiempo en creando nueva imagen  0.003631999999981872
+
+
+
+-- Tiempo en Nixon_Slic  0.12067199999995637
+
+-- Tiempo en Nixon_Normal  2.376541999999972
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-4.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.053288000000009106
+
+--- Tiempo en los coeficientes  0.03965699999997696
+
+--- Tiempo en creando nueva imagen  0.003436000000021977
+
+
+
+-- Tiempo en Nixon_Slic  0.11934600000000728
+
+-- Tiempo en Nixon_Normal  2.366307000000006
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-5.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.053530999999964024
+
+--- Tiempo en los coeficientes  0.04018700000000308
+
+--- Tiempo en creando nueva imagen  0.0024960000000078253
+
+
+
+-- Tiempo en Nixon_Slic  0.11874599999998736
+
+-- Tiempo en Nixon_Normal  2.357988999999975
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-6.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.053065999999944324
+
+--- Tiempo en los coeficientes  0.03873400000009042
+
+--- Tiempo en creando nueva imagen  0.0026080000000092696
+
+
+
+-- Tiempo en Nixon_Slic  0.11639299999990271
+
+-- Tiempo en Nixon_Normal  2.3850269999999227
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-7.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05348100000003342
+
+--- Tiempo en los coeficientes  0.04047800000000734
+
+--- Tiempo en creando nueva imagen  0.0029449999999542342
+
+
+
+-- Tiempo en Nixon_Slic  0.1194309999999632
+
+-- Tiempo en Nixon_Normal  2.3912669999999707
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-8.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05355599999995775
+
+--- Tiempo en los coeficientes  0.045832000000018525
+
+--- Tiempo en creando nueva imagen  0.0037249999999175998
+
+
+
+-- Tiempo en Nixon_Slic  0.12661800000000767
+
+-- Tiempo en Nixon_Normal  2.3920609999998987
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-9.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.05326600000000781
+
+--- Tiempo en los coeficientes  0.0394579999999678
+
+--- Tiempo en creando nueva imagen  0.0025819999999612264
+
+
+
+-- Tiempo en Nixon_Slic  0.11796900000001642
+
+-- Tiempo en Nixon_Normal  2.401551999999924
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-10.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_6/im_6-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_6/im_6-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 27.93617599999999 para 10 iteraciones
+
+Tiempo total de output/noisy/im_6 - noise.pickled: 27.95472000000001
+
+<class 'str'>
+  output/noisy/im_7 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_7 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.04222499999991669
+
+--- Tiempo en los coeficientes  0.030288000000041393
+
+--- Tiempo en creando nueva imagen  0.0019900000000916407
+
+
+
+-- Tiempo en Nixon_Slic  0.09399600000006103
+
+-- Tiempo en Nixon_Normal  1.0974149999999554
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-1.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.044443999999998596
+
+--- Tiempo en los coeficientes  0.029656999999929212
+
+--- Tiempo en creando nueva imagen  0.001686000000063359
+
+
+
+-- Tiempo en Nixon_Slic  0.09500500000001466
+
+-- Tiempo en Nixon_Normal  1.0972150000000056
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-2.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04586399999993773
+
+--- Tiempo en los coeficientes  0.02994499999999789
+
+--- Tiempo en creando nueva imagen  0.001648000000045613
+
+
+
+-- Tiempo en Nixon_Slic  0.10094500000002427
+
+-- Tiempo en Nixon_Normal  1.1280249999999796
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-3.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.046045000000049185
+
+--- Tiempo en los coeficientes  0.03134899999997742
+
+--- Tiempo en creando nueva imagen  0.0020299999999906504
+
+
+
+-- Tiempo en Nixon_Slic  0.10263999999995121
+
+-- Tiempo en Nixon_Normal  1.114426000000094
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-4.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04587500000002365
+
+--- Tiempo en los coeficientes  0.031754000000091764
+
+--- Tiempo en creando nueva imagen  0.0017050000000153887
+
+
+
+-- Tiempo en Nixon_Slic  0.10271299999999428
+
+-- Tiempo en Nixon_Normal  1.1259919999999966
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-5.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.043919999999957327
+
+--- Tiempo en los coeficientes  0.030824999999936153
+
+--- Tiempo en creando nueva imagen  0.0017329999999446954
+
+
+
+-- Tiempo en Nixon_Slic  0.09981099999993148
+
+-- Tiempo en Nixon_Normal  1.1577700000000277
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-6.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.045900999999958
+
+--- Tiempo en los coeficientes  0.030959999999936372
+
+--- Tiempo en creando nueva imagen  0.0016699999999900683
+
+
+
+-- Tiempo en Nixon_Slic  0.10167200000000776
+
+-- Tiempo en Nixon_Normal  1.1333380000000943
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-7.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04590199999995548
+
+--- Tiempo en los coeficientes  0.03100599999993392
+
+--- Tiempo en creando nueva imagen  0.001944999999977881
+
+
+
+-- Tiempo en Nixon_Slic  0.10201700000004621
+
+-- Tiempo en Nixon_Normal  1.1372170000000779
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-8.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04606999999998607
+
+--- Tiempo en los coeficientes  0.030937999999991916
+
+--- Tiempo en creando nueva imagen  0.0017599999999902138
+
+
+
+-- Tiempo en Nixon_Slic  0.10198100000002341
+
+-- Tiempo en Nixon_Normal  1.1401550000000498
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-9.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.04417399999999816
+
+--- Tiempo en los coeficientes  0.030943999999976768
+
+--- Tiempo en creando nueva imagen  0.0016870000000608343
+
+
+
+-- Tiempo en Nixon_Slic  0.10002199999996719
+
+-- Tiempo en Nixon_Normal  1.1395629999999528
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-10.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_7/im_7-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_7/im_7-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 13.84630699999991 para 10 iteraciones
+
+Tiempo total de output/noisy/im_7 - noise.pickled: 13.858206999999993
+
+<class 'str'>
+  output/noisy/im_8 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_8 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.2930790000000343
+
+--- Tiempo en los coeficientes  0.3388270000000375
+
+--- Tiempo en creando nueva imagen  0.061362000000031
+
+
+
+-- Tiempo en Nixon_Slic  0.7214839999999185
+
+-- Tiempo en Nixon_Normal  40.15985899999998
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-1.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.31718899999998484
+
+--- Tiempo en los coeficientes  0.3656190000000379
+
+--- Tiempo en creando nueva imagen  0.06270899999992707
+
+
+
+-- Tiempo en Nixon_Slic  0.7791210000000319
+
+-- Tiempo en Nixon_Normal  39.797279
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-2.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.3173029999999244
+
+--- Tiempo en los coeficientes  0.3595870000000332
+
+--- Tiempo en creando nueva imagen  0.06039299999997638
+
+
+
+-- Tiempo en Nixon_Slic  0.7722640000000638
+
+-- Tiempo en Nixon_Normal  39.85936800000002
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-3.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.34743200000002616
+
+--- Tiempo en los coeficientes  0.3917220000000725
+
+--- Tiempo en creando nueva imagen  0.0625239999999394
+
+
+
+-- Tiempo en Nixon_Slic  0.8377480000000332
+
+-- Tiempo en Nixon_Normal  40.198479999999904
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-4.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.33768399999996745
+
+--- Tiempo en los coeficientes  0.339067
+
+--- Tiempo en creando nueva imagen  0.06115999999997257
+
+
+
+-- Tiempo en Nixon_Slic  0.7754850000000033
+
+-- Tiempo en Nixon_Normal  39.738381000000004
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-5.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.3413799999999583
+
+--- Tiempo en los coeficientes  0.34345999999993637
+
+--- Tiempo en creando nueva imagen  0.06423199999994722
+
+
+
+-- Tiempo en Nixon_Slic  0.7836949999999661
+
+-- Tiempo en Nixon_Normal  39.75688100000002
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-6.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.3535789999999679
+
+--- Tiempo en los coeficientes  0.3397699999999304
+
+--- Tiempo en creando nueva imagen  0.06619299999999839
+
+
+
+-- Tiempo en Nixon_Slic  0.8112820000000056
+
+-- Tiempo en Nixon_Normal  40.408763999999906
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-7.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.3517470000000458
+
+--- Tiempo en los coeficientes  0.3572980000000143
+
+--- Tiempo en creando nueva imagen  0.06999699999994391
+
+
+
+-- Tiempo en Nixon_Slic  0.8466459999999643
+
+-- Tiempo en Nixon_Normal  40.08912399999997
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-8.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.3631520000000137
+
+--- Tiempo en los coeficientes  0.36220700000001216
+
+--- Tiempo en creando nueva imagen  0.06814700000006724
+
+
+
+-- Tiempo en Nixon_Slic  0.8587549999999737
+
+-- Tiempo en Nixon_Normal  40.445063000000005
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-9.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.339162999999985
+
+--- Tiempo en los coeficientes  0.3455549999999903
+
+--- Tiempo en creando nueva imagen  0.062219000000027336
+
+
+
+-- Tiempo en Nixon_Slic  0.7839600000000928
+
+-- Tiempo en Nixon_Normal  40.32992300000001
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-10.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_8/im_8-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_8/im_8-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 458.11020299999996 para 10 iteraciones
+
+Tiempo total de output/noisy/im_8 - noise.pickled: 458.3508690000001
+
+<class 'str'>
+  output/noisy/im_9 - noise.pickled
+
+Usando parametros: -0.2593-0.0889-0.25-9-10
+
+- Processing: output/noisy/im_9 - noise.pickled
+    with: -0.2593-0.0889-0.25-9-10
+
+--- Tiempo en las derivadas  0.3380580000000464
+
+--- Tiempo en los coeficientes  0.3427189999999882
+
+--- Tiempo en creando nueva imagen  0.053625000000010914
+
+
+
+-- Tiempo en Nixon_Slic  0.7609840000000077
+
+-- Tiempo en Nixon_Normal  40.705577999999946
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-1.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-1_edge.jpg
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-1_norm.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-1_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.33359199999995326
+
+--- Tiempo en los coeficientes  0.3365160000000742
+
+--- Tiempo en creando nueva imagen  0.06195900000011534
+
+
+
+-- Tiempo en Nixon_Slic  0.7655899999999747
+
+-- Tiempo en Nixon_Normal  40.30294600000002
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-2.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-2_edge.jpg
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-2_norm.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-2_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.33816699999988487
+
+--- Tiempo en los coeficientes  0.3777299999999286
+
+--- Tiempo en creando nueva imagen  0.07125999999993837
+
+
+
+-- Tiempo en Nixon_Slic  0.8282550000001265
+
+-- Tiempo en Nixon_Normal  40.12991499999998
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-3.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-3_edge.jpg
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-3_norm.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-3_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.3780340000000706
+
+--- Tiempo en los coeficientes  0.3518930000000182
+
+--- Tiempo en creando nueva imagen  0.06780400000002373
+
+
+
+-- Tiempo en Nixon_Slic  0.8411009999999806
+
+-- Tiempo en Nixon_Normal  40.699971000000005
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-4.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-4_edge.jpg
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-4_norm.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-4_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.3643219999999019
+
+--- Tiempo en los coeficientes  0.35208699999998316
+
+--- Tiempo en creando nueva imagen  0.05784700000003795
+
+
+
+-- Tiempo en Nixon_Slic  0.8056840000001557
+
+-- Tiempo en Nixon_Normal  40.55881899999986
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-5.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-5_edge.jpg
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-5_norm.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-5_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.3443640000000414
+
+--- Tiempo en los coeficientes  0.33397400000012567
+
+--- Tiempo en creando nueva imagen  0.06190400000014051
+
+
+
+-- Tiempo en Nixon_Slic  0.7780579999998736
+
+-- Tiempo en Nixon_Normal  40.515763000000106
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-6.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-6_edge.jpg
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-6_norm.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-6_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.303965000000062
+
+--- Tiempo en los coeficientes  0.39121399999999085
+
+--- Tiempo en creando nueva imagen  0.06817999999998392
+
+
+
+-- Tiempo en Nixon_Slic  0.7999139999999443
+
+-- Tiempo en Nixon_Normal  39.993150000000014
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-7.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-7_edge.jpg
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-7_norm.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-7_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.31099399999993693
+
+--- Tiempo en los coeficientes  0.36176399999999376
+
+--- Tiempo en creando nueva imagen  0.06751099999996768
+
+
+
+-- Tiempo en Nixon_Slic  0.7798199999999724
+
+-- Tiempo en Nixon_Normal  40.380579000000125
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-8.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-8_edge.jpg
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-8_norm.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-8_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.35365999999999076
+
+--- Tiempo en los coeficientes  0.3733629999999266
+
+--- Tiempo en creando nueva imagen  0.06011199999989003
+
+
+
+-- Tiempo en Nixon_Slic  0.8232809999999517
+
+-- Tiempo en Nixon_Normal  40.205930999999964
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-9.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-9_edge.jpg
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-9_norm.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-9_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+--- Tiempo en las derivadas  0.3430449999998473
+
+--- Tiempo en los coeficientes  0.3327839999999469
+
+--- Tiempo en creando nueva imagen  0.05780900000013389
+
+
+
+-- Tiempo en Nixon_Slic  0.7724989999999252
+
+-- Tiempo en Nixon_Normal  40.127615000000105
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-10.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-10_edge.jpg
+output/results/im_9/im_9-0.2593-0.0889-0.25-9-10_norm.pickledge output/results/im_9/im_9-0.2593-0.0889-0.25-9-10_norm_edge.jpg
+Terminando de guardar imagenes nuevas
+
+- Tiempo de difusion 461.0696600000001 para 10 iteraciones
+
+Tiempo total de output/noisy/im_9 - noise.pickled: 461.31219799999997
+
+
+
+
+Tiempo total 1454.036071
+
