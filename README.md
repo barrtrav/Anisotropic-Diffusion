@@ -46,9 +46,5 @@ En el caso que se quiera probar algún parámetro que no este incluido inicialme
 
 ## Resumen
 
-En este trabajo se aplica el modelo de difusión anisotrópica de Perona-Malik a un conjuntos de imágenes de ultrasonidos. Para este proceso primero se particiona la imagen empleando una técnica de segmentación de superpı́xeles, en este caso SLIC (Simple Liner Iterative Clustering). Una vez que son obtenidos estas regiones o segmentos se realiza un suavizado por regiones teniendo en cuenta la difusión anisotrópica que a diferencia de la isotrópica, esta permite conservar los bordes. También se discute un nuevo algoritmo para aproximar lo que se conoce como parámetro de constraste (k), el cual se emplea a la hora de obtener el coeficiente de difusión.
-
-## Poster
-
-![](./poster/Influencia del suavizado por DA en imágenes de ultrasonido.png)
+En este trabajo se aplica el modelo de difusión anisotrópica de Perona-Malik a un conjuntos de imágenes de ultrasonidos. Para este proceso primero se particiona la imagen empleando una técnica de segmentación de superpíxeles, en este caso SLIC (Simple Liner Iterative Clustering). Una vez que son obtenidos estas regiones o segmentos se realiza un suavizado por regiones teniendo en cuenta la difusión anisotrópica que a diferencia de la isotrópica, esta permite conservar los bordes. También se discute un nuevo algoritmo para aproximar lo que se conoce como parámetro de constraste (k), el cual se emplea a la hora de obtener el coeficiente de difusión.
 
