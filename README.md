@@ -2,11 +2,11 @@
 
 ## Autores
 
-| **Nombre(s) y Apellidos**  | **Grupo** |              **Correo**              |                       **GitHub**                       |
-| :------------------------: | :-------: | :----------------------------------: | :----------------------------------------------------: |
-| Reinaldo Barrera Travieso  |   C-411   |  r.barrera@estudiantes.matcom.uh.cu  |      [@Reinaldo14](https://github.com/Reinaldo14)      |
-| Juan Carlos Esquivel Lamis |   C-411   | j.esquivel@estudiantes.matcom.uh.cu  | [@jesquivel960729](https://github.com/jesquivel960729) |
-|    Ariel Plasencia Díaz    |   C-412   | a.plasencia@estudiantes.matcom.uh.cu |         [@ArielXL](https://github.com/ArielXL)         |
+| **Nombre(s) y Apellidos**  |              **Correo**              |                       **GitHub**                       |
+| :------------------------: | :----------------------------------: | :----------------------------------------------------: |
+| Reinaldo Barrera Travieso  |  r.barrera@estudiantes.matcom.uh.cu  |      [@Reinaldo14](https://github.com/Reinaldo14)      |
+| Juan Carlos Esquivel Lamis | j.esquivel@estudiantes.matcom.uh.cu  | [@jesquivel960729](https://github.com/jesquivel960729) |
+|    Ariel Plasencia Díaz    | a.plasencia@estudiantes.matcom.uh.cu |         [@ArielXL](https://github.com/ArielXL)         |
 
 ## Implementación y Ejecución
 
